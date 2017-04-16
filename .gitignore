@@ -1,3 +1,7 @@
-.idea/
 bower_components/
+node_modules/
+
+# IDEs 
+.idea/
 /nbproject/
+.vscode
